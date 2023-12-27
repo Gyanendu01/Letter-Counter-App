@@ -1,3 +1,5 @@
+# Letter-Counter-App
+
 # Description:
 
 This program is responsible to get a message and a specific letter from a
